@@ -1,0 +1,57 @@
+.gap-sm {
+  gap: 8px
+}
+
+.gap-md {
+  gap: 16px
+}
+
+.img-block {
+    height: 300px;
+  } 
+  
+.img-size {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+
+h3 {
+  font-size: 1.5rem;
+    margin: 0;
+}
+
+p, ul {
+  font-size: 1rem;
+}
+
+@font-face {
+    font-family: "DejaVuSans";
+    src: local("DejaVuSans"),
+     url('~/assets/fonts/DejaVuSans.ttf') format("truetype");
+}
+
+body {
+	font-family: 'DejaVuSans', 'sans-serif'; 
+}
+
+a {
+  text-decoration: none;
+  color: $primary
+}
+
+ul {
+  list-style-type: none;
+}
+
+.content-img-size {
+  max-width: 1000px; 
+  height: 500px;
+  margin: auto;
+}
