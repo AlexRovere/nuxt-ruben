@@ -1,4 +1,8 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Réalisations</Title>
+    <Meta name="description" content="Retrouver touts nos réalisations" />
+  </Head>
   <div class="q-pa-md q-mx-auto" style="width: 50%">
     <h2 class="text-center">Nos réalisations</h2>
     <q-carousel

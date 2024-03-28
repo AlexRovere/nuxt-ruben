@@ -1,4 +1,7 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | confidentialité</Title>
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Politique de confidentialité</h2>

@@ -67,6 +67,8 @@ watch($route, val => {
   firstLoad.value = false
 })
 
+const route = useRoute()
+
 </script>
 <style scoped>
 .phone {

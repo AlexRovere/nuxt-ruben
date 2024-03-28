@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Gouttières</Title>
+    <Meta name="description" content="Nous proposons des services d'installation et d'entretien de gouttières pour protéger efficacement votre
+        bâtiment contre les problèmes liés à l'écoulement des eaux pluviales." />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Gouttières</h2>

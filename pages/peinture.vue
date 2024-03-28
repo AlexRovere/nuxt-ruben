@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Peinture</Title>
+    <Meta name="description" content="Transformez votre intérieur avec nos services de peinture professionnelle. Offrez une ambiance
+        harmonieuse et rafraîchissante à votre espace de vie." />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Peinture Intérieure</h2>

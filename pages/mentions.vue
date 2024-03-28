@@ -1,4 +1,7 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Mentions légales</Title>
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Mentions légales</h2>

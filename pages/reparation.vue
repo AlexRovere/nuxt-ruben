@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Réparations</Title>
+    <Meta name="description" content="Nous offrons des services de détection et de réparation des fuites pour prévenir les dommages liés à
+        l'eau et assurer l'intégrité de votre bâtiment." />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Détection et Réparation des Fuites</h2>

@@ -1,4 +1,8 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Démoussage</Title>
+    <Meta name="description" content=" Nous proposons des services spécialisés de démoussage et d'entretien de toiture pour garantir la longévité de votre toit et la protection de votre maison. " />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Démoussage et Entretien de Toiture</h2>

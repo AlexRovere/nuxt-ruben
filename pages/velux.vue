@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Vélux</Title>
+    <Meta name="description" content="Valorisez votre espace avec nos services d'installation et de réparation de fenêtres de toit Velux.
+        Apportez la lumière naturelle dans votre intérieur de manière élégante." />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Installation et Réparation de Velux</h2>

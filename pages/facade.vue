@@ -1,4 +1,9 @@
 <template>
+  <Head>
+    <Title>RD Peinture 66 | Façade</Title>
+    <Meta name="description" content="Nous proposons des services de ravalement de façade pour redonner vie à l'extérieur de votre bâtiment,
+        améliorer son aspect esthétique et assurer sa durabilité." />
+  </Head>
   <section class="column gap-md q-mx-auto" style="max-width: 1500px;">
     <div class="text-center">
       <h2>Ravalement de Façade</h2>
